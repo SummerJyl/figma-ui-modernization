@@ -72,6 +72,7 @@ Each component in Figma is:
 
 - [Bio Health Data Explorer](https://github.com/yourusername/bio-health-data-explorer)
 - [Finance Dashboard UI](https://github.com/yourusername/personal-finance-dashboard)
+- [Patient Login Prototype](https://github.com/yourusername/patient-login-prototype)
 
 ---
 
