@@ -11,7 +11,7 @@ This design system supports a ColdFusion-to-Ruby on Rails migration by normalizi
 - Storybook
 - Tailwind CSS (optional)
 
-![Project Overview](assets/overview.png)
+![Project Overview](assets/legacy.png)
 
 ---
 
@@ -33,7 +33,7 @@ I designed and implemented the full front-end UI system using Figma and Storyboo
 
 This system uses the Inter font family, optimized for readability and scalability. The table below defines the primary type hierarchy:
 
-![Typography Spec](assets/typography-spec.png)
+![Typography Spec](assets/typography.png)
 
 ---
 
@@ -41,7 +41,7 @@ This system uses the Inter font family, optimized for readability and scalabilit
 
 The design system includes a broad set of components, structured for responsive, accessible use:
 
-![Component Overview](assets/components-overview.png)
+![Component Overview](assets/components.png)
 
 **Includes:**
 - Buttons (primary, ghost, icon)
