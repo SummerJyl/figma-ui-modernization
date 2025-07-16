@@ -41,7 +41,7 @@ This system uses the Inter font family, optimized for readability and scalabilit
 
 The design system includes a broad set of components, structured for responsive, accessible use:
 
-![Component Overview](assets/componentsThumb.png)
+![Component Overview](assets/componentThumb.png)
 
 **Includes:**
 - Buttons (primary, ghost, icon)
