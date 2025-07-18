@@ -65,7 +65,7 @@ Each component in Figma is:
 ---
 
 ---
-
+<!--
 ## 📸 Figma Design Previews
 
 ### 🎨 Color System  
@@ -87,7 +87,7 @@ Each component in Figma is:
 ### 🧰 UI Kit  
 <img src="assets/ui-kit.png" alt="Figma UI Kit" width="800" />  
 [🔗 View full-size](assets/ui-kit.png)
-
+-->
 ---
 
 ## 🔗 View the Figma File (Read-Only)
