@@ -91,8 +91,7 @@ Each component in Figma is:
 ---
 
 ## 🔗 View the Figma File (Read-Only)
-
-[📂 Open the full Figma prototype][📂 Open the full Figma prototype](https://www.figma.com/files/team/1359028268476844420/project/221859644/Team-project?fuid=1359028264299455215)
+[📂 Open the Legacy UI Modernization Prototype](https://www.figma.com/proto/PCImvlHNBhGuZlvZiX1QsU/Legacy-UI-Modernization---Design-System?node-id=1-4&t=jmw3ieWfiA7L5cNJ-1)
 
 ---
 
