@@ -64,9 +64,35 @@ Each component in Figma is:
 
 ---
 
-## 🔗 View the Figma File (Optional)
+---
 
-> [📂 View the Figma prototype (Read-only)](https://www.figma.com/file/YOUR-FIGMA-LINK-HERE)
+## 📸 Figma Design Previews
+
+### 🎨 Color System  
+<img src="assets/color-system.png" alt="Figma Color System" width="800" />  
+[🔗 View full-size](assets/color-system.png)
+
+### 🔠 Typography  
+<img src="assets/typography.png" alt="Figma Typography" width="800" />  
+[🔗 View full-size](assets/typography.png)
+
+### 📏 Spacing Grid  
+<img src="assets/spacing-grid.png" alt="Figma Spacing Grid" width="800" />  
+[🔗 View full-size](assets/spacing-grid.png)
+
+### 🧩 Components  
+<img src="assets/components.png" alt="Figma Components" width="800" />  
+[🔗 View full-size](assets/components.png)
+
+### 🧰 UI Kit  
+<img src="assets/ui-kit.png" alt="Figma UI Kit" width="800" />  
+[🔗 View full-size](assets/ui-kit.png)
+
+---
+
+## 🔗 View the Figma File (Read-Only)
+
+[📂 Open the full Figma prototype][📂 Open the full Figma prototype](https://www.figma.com/files/team/1359028268476844420/project/221859644/Team-project?fuid=1359028264299455215)
 
 ---
 
