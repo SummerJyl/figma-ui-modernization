@@ -6,9 +6,9 @@ This design system supports a ColdFusion-to-Ruby on Rails migration by normalizi
 
 ## 🔧 Tools Used
 
-- Figma
-- React
-- Storybook
+- Figma  
+- React  
+- Storybook  
 - Tailwind CSS (optional)
 
 ![Project Overview](assets/legacyThumb.png)
@@ -17,8 +17,8 @@ This design system supports a ColdFusion-to-Ruby on Rails migration by normalizi
 
 ## 🎯 Goals
 
-- Normalize UI across legacy and new Rails pages
-- Create reusable, documented components
+- Normalize UI across legacy and new Rails pages  
+- Create reusable, documented components  
 - Speed up front-end handoffs using shared specs and tokens
 
 ---
@@ -44,11 +44,12 @@ The design system includes a broad set of components, structured for responsive,
 ![Component Overview](assets/componentThumb.png)
 
 **Includes:**
-- Buttons (primary, ghost, icon)
-- Form fields and inputs
-- Banners and alerts
-- Cards, headers, and CTAs
-- Navigation menus and tab structures
+
+- Buttons (primary, ghost, icon)  
+- Form fields and inputs  
+- Banners and alerts  
+- Cards, headers, and CTAs  
+- Navigation menus and tab structures  
 - Toasts, modals, and more
 
 ---
@@ -56,8 +57,9 @@ The design system includes a broad set of components, structured for responsive,
 ## 🛠 Developer Handoff Ready
 
 Each component in Figma is:
-- Built with Auto Layout + Variants
-- Fully annotated for dev inspection
+
+- Built with Auto Layout + Variants  
+- Fully annotated for dev inspection  
 - Linked to working React counterparts via Storybook
 
 ---
@@ -70,8 +72,8 @@ Each component in Figma is:
 
 ## 📁 Related Projects
 
-- [Bio Health Data Explorer](https://github.com/yourusername/bio-health-data-explorer)
-- [Finance Dashboard UI](https://github.com/yourusername/personal-finance-dashboard)
+- [Bio Health Data Explorer](https://github.com/yourusername/bio-health-data-explorer)  
+- [Finance Dashboard UI](https://github.com/yourusername/personal-finance-dashboard)  
 - [Patient Login Prototype](https://github.com/yourusername/patient-login-prototype)
 
 ---
@@ -79,4 +81,3 @@ Each component in Figma is:
 ## 💡 Summary
 
 This project demonstrates how I bridge UX/UI design with scalable front-end development. Figma plays a central role in system thinking, design consistency, and speed-to-code.
-
